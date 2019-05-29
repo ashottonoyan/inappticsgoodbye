@@ -7,4 +7,4 @@ We want to thank every single one of you for sharing this journey with us. Thank
 We did our best to create Inapptics and help app makers better understand their app users. But now we have to move on and there is a big chance we’ll come back with a better product in the future.
 
 Stay tuned!
-- The Inapptics Team
+-- The Inapptics Team
