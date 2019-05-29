@@ -1,4 +1,4 @@
-# We don’t say goodbye, stay tuned
+## We don’t say goodbye, stay tuned
 
 The time has come and we had to make this tough decision. We decided to temporarily shut down Inapptics starting from June 1st, 2019, as we are no longer able to support the product. It’s a painful decision, but we hope that the learnings we had during this process will help us come back better and stronger.
 
